@@ -1,0 +1,8 @@
+tmc\core\goods\Goods.class
+tmc\core\markets\Market.class
+tmc\core\exceptions\MoneyException.class
+tmc\core\Game.class
+tmc\core\Main.class
+tmc\core\Company.class
+tmc\persistence\StorageHandler.class
+tmc\core\exceptions\GoodsException.class
