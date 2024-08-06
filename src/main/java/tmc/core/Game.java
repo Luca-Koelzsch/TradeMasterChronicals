@@ -404,6 +404,11 @@ public class Game implements Runnable, Serializable {
         return markets;
     }
 
+    public int getLevel() {
+        return level;
+    }
+    
+
     public void setCompany(Company company) {
         this.company = company;
     }
