@@ -10,6 +10,8 @@ public class Main {
 
     public static void main(String[] args) {
         Game g = new Game(1);
+        
+        //Herr Schmietendorf, probieren Sie hierüber die Lade-funtion aus, wenn Sie wollen
         /*
         g = g.load(); 
         g.getCompany().setName("Main Street Capital");
